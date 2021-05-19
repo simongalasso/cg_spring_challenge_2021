@@ -60,7 +60,9 @@ if available COMPLETE actions
     && next_day_sun_rate > current_next_day_sun_rate
 {
     GROW tree with better next_day_sun_rate (week_sun_rate in case of equality)
-} else if available SEED actions {
+} else if available SEED actions
+    && nb day left > nb of day necessary to complete the tree
+{
     SEED on cell that has the less shadow on a week (richness checked in case of equality)
 } else WAIT
 ```
