@@ -3,7 +3,7 @@
 ## Stats
 * Overall rank: <strong>100</strong>th out of <strong>6 867</strong> players
 * Tech rank (Rust): <strong>6</strong>th out of <strong>202</strong> players
-* Team rank (42 school): <strong>3</strong>th out of <strong>213</strong> players
+* Team rank (42 school): <strong>3</strong>rd out of <strong>213</strong> players
 * Country rank (France): <strong>36</strong>th out of <strong>2627</strong> players
 
 ## The challenge
@@ -69,8 +69,8 @@ if available COMPLETE actions
 Calculating the sun_rate for the available GROW actions, stopping using SEED, GROW and COMPLETE when it was useless at endgame and calculating the bound day for COMPLETE instead of a fixed value were the features that took me to LEGEND.
 
 ### Legend League
-I struggled all the last nigth before the challenge ends twicking values to find something to get into top 100, 2 hours before the end around 8am I found something, for GROW, instead of calculating the absolute sun_rate, I calculated the difference between the current one and the potential new one and ! It made the difference and I finished 100th !
+I struggled all the last nigth before the challenge ends tweacking values to find something to get into top 100, 2 hours before the end around 8am I found something, for GROW, instead of calculating the absolute sun_rate, I calculated the difference between the current one and the potential new one ! It made the difference and I finished 100th !
 
 ## Special thanks
 
-I would thanks <a href="https://github.com/mapapin">mapapin<a/>, <a href="https://github.com/kh42z">Kh4z<a/>, <a href="https://github.com/pde-bakk">peerdb<a/>, <a href="https://github.com/Rush-iam?tab=repositories">nGragas<a/> and <a href="https://github.com/rmarracc">Shin0auBSQ<a/> who helped me to get out of my frequent struggles I had on that challenge ! Also thanks to <a href="https://www.codingame.com/home">CodinGame</a> team for making such good contests !
+I would thanks <a href="https://github.com/mapapin">mapapin<a/>, <a href="https://github.com/kh42z">Kh4z<a/>, <a href="https://github.com/pde-bakk">peerdb<a/>, <a href="https://github.com/Rush-iam?tab=repositories">nGragas<a/> and <a href="https://github.com/rmarracc">Shin0auBSQ<a/> who helped me to get out of my frequent struggles I had on that challenge. Also thanks my dad that always support me ! Finaly thanks to <a href="https://www.codingame.com/home">CodinGame</a> team for making such good contests !
