@@ -2,9 +2,9 @@
 
 ## Stats
 * Overall rank: <strong>100</strong>th out of <strong>6 867</strong> players
+* Country rank (France): <strong>36</strong>th out of <strong>2627</strong> players
 * Tech rank (Rust): <strong>6</strong>th out of <strong>202</strong> players
 * Team rank (42 school): <strong>3</strong>rd out of <strong>213</strong> players
-* Country rank (France): <strong>36</strong>th out of <strong>2627</strong> players
 
 ## The challenge
 For this challenge the goal was to make an AI that is able to win a match on a Photosynthesis board game, <a href=https://www.codingame.com/challengereport/3371192040f5be56acaf8c1ad3e8d4f347bb82da>official rules here</a>
